@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+
+header h1 {
+    margin-top: 2%;
+    margin-left: 40%;
+    margin-right: 41.5%;
+    border: 2px, solid black;
+}
+
+.redesSociales img{
+    height: 100px;
+}
+
+footer form {
+    border: 1.5px, solid black;
+    border-radius: 5px;
+    margin-right: 83.5%;
+}
+
+
