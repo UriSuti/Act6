@@ -3,14 +3,45 @@
     padding: 0;
 }
 
+body {
+    background-color: lightblue;
+}
+
+header {
+    background-color: rgb(6, 110, 145);
+    padding: 2%;
+    text-align: center;
+}
+
+header h5 {
+    margin-right: 41.5%;
+    float: inline-end;
+    font-size: 20px;
+    color: white;
+}
+
 header h1 {
     margin-top: 2%;
     margin-left: 40%;
     margin-right: 41.5%;
-    border: 2px, solid black;
+    border: 2px solid black;
+    padding: 16px;
+    color: white;
+    font-size: 40px;
+    background-color: rgb(0, 50, 70);
 }
 
-.redesSociales img{
+header img {
+    width: 20%;
+    margin-right: 50%;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 20px;
+}
+
+.redesSociales img {
     height: 100px;
 }
 
