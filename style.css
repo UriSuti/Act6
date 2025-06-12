@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: lightblue;
 }
 
 header h1 {
@@ -15,10 +14,55 @@ header h1 {
     height: 100px;
 }
 
-footer form {
-    border: 1.5px, solid black;
-    border-radius: 5px;
-    margin-right: 83.5%;
+footer h3{
+    margin-top: 10%;
+    margin-bottom: 5%;
 }
 
+footer form {
+    border-radius: 5px;
+    margin-right: 0%;
+}
 
+footer input{
+    background-color: rgb(174, 255, 248);
+    padding: 10px;
+    border-radius: 5%;
+    margin: 0.5%;
+}
+footer input:hover{
+
+    background-color: rgb(126, 255, 244);
+    padding: 8px;
+
+}
+
+footer textarea {
+
+    margin-left: 1%;
+    border-radius: 2%;
+    width: 377px; 
+    height: 116px;
+
+}
+
+footer input.inscripcion{
+
+    background-color: rgb(123, 108, 255);
+    padding-right: 12%;
+    padding-left: 12%;
+
+}
+
+footer input.contacto{
+
+    padding-right: 4%;
+    padding-left: 12%;
+
+}
+
+footer img{
+
+    width: 2%;
+    height: 2%;
+}
